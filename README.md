@@ -6,8 +6,8 @@
 
 **Steps Followed**
 
-Reading Data
-Cleaning Data
+1. Reading Data
+2. Cleaning Data
 EDA
 Creating Dummy
 Splitting data into train and test set
