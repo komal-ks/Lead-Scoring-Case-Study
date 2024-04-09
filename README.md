@@ -8,19 +8,19 @@
 
 1. Reading Data
 2. Cleaning Data
-EDA
-Creating Dummy
-Splitting data into train and test set
-Building Model
-Making Predictions
-Model Evaluation
-ROC Curve
-Prediction on test set
-Precision- Recall
-Details of files given
-Lead Score Case Study Aayushi Meenu .ipynb : The python file showing coding and data analysis
-Assignment Subjective Questions.pdf : Some subjective questions answered
-Lead Score Case Study.pdf : Final Presentation
-Leads.csv : Data worked on
-Leads Data Dictionary.xlsx : Data Dictionary
-Summary.pdf : Summary on what's done in the entire py file
+3. EDA
+4. Creating Dummy
+5. Splitting data into train and test set
+6. Building Model
+7. Making Predictions
+8. Model Evaluation
+9. ROC Curve
+10. Prediction on test set
+11. Precision- Recall
+12. Details of files given
+13. Lead Score Case Study Aayushi Meenu .ipynb : The python file showing coding and data analysis
+14. Assignment Subjective Questions.pdf : Some subjective questions answered
+15. Lead Score Case Study.pdf : Final Presentation
+16. Leads.csv : Data worked on
+17. Leads Data Dictionary.xlsx : Data Dictionary
+18. Summary.pdf : Summary on what's done in the entire py file
