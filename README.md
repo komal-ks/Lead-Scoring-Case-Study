@@ -30,7 +30,7 @@ A brief summary report in 500 words explaining how you proceeded with the assign
 
 **Files**
 1. Lead_Score_CaseStudy.ipynb : The python file include detailed comments and necessary code.
-2. Assignment Subjective Questions.docx : Assignment Subjective Questions Answers
+2. Assignment Subjective Questions.pdf : Assignment Subjective Questions Answers
 3. Lead_Score_CaseStudy.pdf : Final Presentation
 4. Leads.csv : Data
 5. Leads Data Dictionary.xlsx : Data Dictionary
